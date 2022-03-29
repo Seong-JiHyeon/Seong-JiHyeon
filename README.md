@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seong-JiHyeon
+- 👋 Hi, I’m @monouns
 - 👀 I’m interested in AI for Computer Vision, TimeSeries Forecasting, Data Analysis, etc ...
 - 🌱 I’m currently learning at KAIST(Korea) AI Graduate School.
 - 💞️ I’m looking to collaborate on AI projects 
